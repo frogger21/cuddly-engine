@@ -1,5 +1,5 @@
 # cuddly-engine
-C++ quicksort by using median of arr[frirst], arr[mid], arr[last] as the pivot. 
+C++ quicksort by using median of 3: arr[frirst], arr[mid], arr[last] as the pivot. 
 
 Just practice.
 
