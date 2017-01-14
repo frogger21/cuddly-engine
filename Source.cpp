@@ -129,6 +129,7 @@ int main()
 	cout << "After!\n";
 	printarray(arr, l, r);
 
+	delete[] arr;
 	//just to pause command prompt
 	int userExit;
 	cout << "Exiting...\n";
